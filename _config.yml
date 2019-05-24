@@ -23,11 +23,10 @@ projects:
   #   - stars
   limit: 6
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
-      - gyazo-web-client
-      - context-provider
+    # - repo-name
 
 social_media:
   # behance: your_username
